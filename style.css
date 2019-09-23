@@ -1,0 +1,17 @@
+#p1
+{
+	color:white;
+	background-color:black;
+}
+#p2
+{
+	color:black;
+	padding-left:100px;
+}
+.outline
+{
+	height="500px"; 
+	width="500px";
+	border-style:solid;
+	border-color:black;
+}
